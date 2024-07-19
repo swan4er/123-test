@@ -1,0 +1,38 @@
+{
+  "background_color": "#0cd8b3",
+  "description": "Шаблон магазина домашнего декора с панелью фильтров слева.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Магазин Menidyon",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Menidyon",
+  "start_url": "https://dev-donut.ru/page52272257.html",
+  "theme_color": "#ff2d2d",
+  "icons": [
+    {
+      "src": "https://static.tildacdn.com/tild3634-6530-4561-a630-666365303931/favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://static.tildacdn.com/tild6537-3739-4263-b938-366565383030/donut_2.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://thb.tildacdn.com/tild3066-3936-4632-a234-396433303631/-/resize/504x/4.png",
+      "type": "image/png",
+      "sizes": "504x336"
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3339-6339-4162-a431-636538613233/donut_2.png",
+      "type": "image/png",
+      "sizes": "270x270"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "lang": "ru"
+}
